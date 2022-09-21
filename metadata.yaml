@@ -1,0 +1,34 @@
+_repo: Modern-koltok-Kulfoldi-antologia-a-koltok-arckepeivel_68900
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kosztolányi, Dezső
+    aliases:
+    - Kostolani, Dezhe
+    - Kosztolányi, Désiré
+    - Kosztolanyi, Dezso
+    - Kosztolanyi, Desire
+    - Kosztolányi, Dezso
+    birthdate: 1885
+    deathdate: 1936
+    gutenberg_agent_id: '40807'
+    url: http://www.gutenberg.org/2009/agents/40807
+    wikipedia: https://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
+description: ''
+gutenberg_issued: '2022-09-03'
+identifiers:
+  gutenberg: '68900'
+language: hu
+pgterms:marc905: 20211221173040kosztolnyi
+pgterms:marc906: '1914'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Élet,1914.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Modern költők: Külföldi antológia a költők arcképeivel'
+url: http://www.gutenberg.org/ebooks/68900
