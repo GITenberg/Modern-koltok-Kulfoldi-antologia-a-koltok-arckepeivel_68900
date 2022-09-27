@@ -14,7 +14,12 @@ contributor:
     gutenberg_agent_id: '40807'
     url: http://www.gutenberg.org/2009/agents/40807
     wikipedia: https://hu.wikipedia.org/wiki/Kosztol%C3%A1nyi_Dezs%C5%91
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68900#Modern-koltok-Kulfoldi-antologia-a-koltok-arckepeivel
 gutenberg_issued: '2022-09-03'
 identifiers:
   gutenberg: '68900'
